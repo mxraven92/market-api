@@ -5,9 +5,10 @@ const config = {
   mirror: "market.ctf"
 };
 
-// temporary dashboard testing
+// temporary panel testing
 // remove before production
-// username: raven_admin
-// password: 7h3R4v3n!92
+// codec: b64
+// panel user token: cmF2ZW5fYWRtaW4=
+// panel key token: N2gzUjR2M24hOTI=
 
 module.exports = config;
