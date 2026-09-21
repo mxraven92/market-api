@@ -7,8 +7,6 @@ const config = {
 
 // temporary panel testing
 // remove before production
-// codec: b64
 // panel user token: cmF2ZW5fYWRtaW4=
-// panel key token: N2gzUjR2M24hOTI=
 
 module.exports = config;
